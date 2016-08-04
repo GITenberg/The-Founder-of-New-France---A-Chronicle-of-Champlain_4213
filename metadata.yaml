@@ -1,0 +1,42 @@
+_repo: The-Founder-of-New-France---A-Chronicle-of-Champlain_4213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colby, Charles W. (Charles William)
+    alias: Colby, Charles William
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '1402'
+    url: http://www.gutenberg.org/2009/agents/1402
+  editors:
+  - agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  - agent_name: Langton, H. H. (Hugh Hornby)
+    alias: Langton, Hugh Hornby
+    birthdate: 1862
+    deathdate: 1953
+    gutenberg_agent_id: '4517'
+    url: http://www.gutenberg.org/2009/agents/4517
+description: Text only version. See also PG#30257 with Illustrations.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4213'
+language: en
+publication_note: Toronto, 1915
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 03'
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+- !lcsh 'Champlain, Samuel de, 1567-1635'
+- GITenberg
+title: 'The Founder of New France : A Chronicle of Champlain'
+url: http://www.gutenberg.org/ebooks/4213
